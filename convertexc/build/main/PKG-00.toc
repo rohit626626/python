@@ -1,0 +1,47 @@
+('/media/rohit/597ffaa6-d505-44d7-a64a-5d46fc3e00521/Harry '
+ 'Program/python/convertexc/build/main/main.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   '/media/rohit/597ffaa6-d505-44d7-a64a-5d46fc3e00521/Harry '
+   'Program/python/convertexc/build/main/PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   '/media/rohit/597ffaa6-d505-44d7-a64a-5d46fc3e00521/Harry '
+   'Program/python/convertexc/build/main/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/media/rohit/597ffaa6-d505-44d7-a64a-5d46fc3e00521/Harry '
+   'Program/python/convertexc/build/main/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/media/rohit/597ffaa6-d505-44d7-a64a-5d46fc3e00521/Harry '
+   'Program/python/convertexc/build/main/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/media/rohit/597ffaa6-d505-44d7-a64a-5d46fc3e00521/Harry '
+   'Program/python/convertexc/build/main/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/home/rohit/.local/lib/python3.8/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   '/home/rohit/.local/lib/python3.8/site-packages/PyInstaller/hooks/rthooks/pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('main',
+   '/media/rohit/597ffaa6-d505-44d7-a64a-5d46fc3e00521/Harry '
+   'Program/python/convertexc/main.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

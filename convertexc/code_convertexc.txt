@@ -1,0 +1,3 @@
+#pip install pyinstaller
+pyinstaller main.py #(Convert main.py file in exc file with folder and file)
+pyinstaller --onefile main.py #(Convert main.py file in exc file with one file)
